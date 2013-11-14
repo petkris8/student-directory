@@ -1,5 +1,6 @@
 student_count = 10
 # First we should print the list of students
+# this is a test 
 puts "The students of my cohort at Makers Academy"
 puts "--------------------"
 puts "Jean Baptiste"
